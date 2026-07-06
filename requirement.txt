@@ -9,3 +9,5 @@ ipykernel
 langchain-tavily
 pydantic
 ipywidgets 
+langchain_mcp_adapters
+tavily
