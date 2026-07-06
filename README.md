@@ -109,7 +109,7 @@ Here is a checklist of ideas to expand your knowledge of Agentic AI:
 - [ ] Memory-enabled agents (storing chat history in SQLite/PostgreSQL).
 - [ ] Human-in-the-loop validation (allowing review before an agent executes a tool).
 - [ ] Multi-agent collaboration architectures (e.g., supervisor pattern).
-
+learning agentic ai with ai evels and other needed things
 ---
 
 ## 🤝 Contributing & Feedback
